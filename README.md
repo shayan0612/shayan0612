@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>🎙️ Currently building an AI voice receptionist that books real appointments over the phone — in German.</em>
+  <em>🎙️ Currently building an AI voice receptionist that books real appointments over the phone.</em>
 </p>
 
 <p align="center">
