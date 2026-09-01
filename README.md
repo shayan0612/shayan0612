@@ -1,29 +1,50 @@
-# Hey, I'm Shayan 👋
+<h1 align="center">Hey, I'm Shayan 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;Vue%2FNuxt+%7C+React%2FNext.js+%7C+Node%2FExpress;Building+with+MongoDB+%2B+PostgreSQL%2FPrisma;Stripe+Payments+%26+SaaS+Products" alt="Typing SVG" />
+</p>
 
-Full-stack JS developer with 2 years of experience building real products — not just following tutorials. I work across Vue/Nuxt and React/Next on the frontend, Node/Express on the backend, and I'm comfortable in both MongoDB and PostgreSQL depending on what the job needs.
+<p align="center">
+  <em>🎙️ Currently building an AI voice receptionist that books real appointments over the phone.</em>
+</p>
 
-[Portfolio](https://shayan-porfolio.web.app) · [Email](mailto:shayannaveed2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mshayan-naveed/)
+<p align="center">
+  <a href="https://shayan-porfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:shayannaveed2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mshayan-naveed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## About me
+### 🧑‍💻 About Me
+* 🔭 Full-stack JavaScript developer, open to **remote roles**
+* 🛠️ Core stack: **Vue.js/Nuxt**, **React/Next.js**, **Node.js/Express**, **MongoDB**, **PostgreSQL + Prisma**
+* 💳 Deep hands-on experience with **Stripe** — subscriptions, billing, custom checkout flows, webhooks
+* 🎓 Currently pursuing a **BSCS in Computer Science** at Virtual University of Pakistan (2024–2028)
+* ⚡ I like building real products end-to-end: admin dashboards, SaaS platforms, AI-assisted tools, and payment systems
 
-- 🧑‍💻 Full-stack JS dev — Vue/Nuxt, React/Next.js, Node/Express, MongoDB, PostgreSQL + Prisma
-- 💳 Comfortable working with Stripe — subscriptions, checkout flows, webhooks
-- 🎓 Currently doing a BSCS at Virtual University of Pakistan (2024–2028), while working
-- 🌍 Open to remote full-time roles and freelance/contract work
-- 🛠️ I like shipping things that actually work end-to-end more than I like talking about theory
+---
 
-## What I'm working on right now
+### 🚀 What I've Been Building
+| Project | What it does | Stack |
+|---|---|---|
+| **metodovicon** | Vue/Nuxt subscription platform with integrations & custom UI | Vue, Nuxt, Pinia |
+| **ServicePro360** | Field service management SaaS | Vue, Nuxt, PostgreSQL |
+| **mr-major-domo** | Home-service business platform — admin panel + Flutter customer app + Stripe payments | Vue3, Vuetify, Firebase, Flutter, Stripe |
+| **next-assist** | AI assistant / chatbot platform with backend, frontend, and admin panel | FastAPI, Next.js |
+> Replace/expand this table with links once repos are public-ready — recruiters click straight through from here.
 
-I just left my last role and I'm rebuilding my public project shelf from scratch — everything you'll see pinned here going forward is code I can actually show and talk through, not exercises from when I was learning. First few projects are in progress now.
+---
 
-## Tech I use
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,nodejs,express,mongodb,postgres,prisma,js,ts,firebase,git,vscode" />
+</p>
 
-![](https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,nodejs,express,mongodb,postgres,prisma,js,ts,firebase,git,vscode)
+---
 
-## Let's talk
+### 📫 Let's Connect
+Open to full-stack opportunities, freelance work, or just talking shop about Vue/Nuxt, Stripe integrations, or SaaS architecture.
 
-If you're hiring for a remote full-stack role, or need a freelancer who can take a project from a rough idea to something live — I'm around. Happy to walk through my actual work on a call if a repo link isn't enough.
-
-*Currently rebuilding this profile with real projects — worth checking back in a couple weeks.*
+<p align="center">
+  <em>💬 Always down to talk shop about AI agents, Stripe edge cases, or why timezone bugs never truly die.</em>
+</p>
